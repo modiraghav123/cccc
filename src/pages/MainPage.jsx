@@ -90,10 +90,10 @@ function MainPage() {
       <div className="card">
         <div className="emoji-row">💕 🌹 💕</div>
 
-        <h1 className="title-cursive">Will you be my Valentine?</h1>
+        <h1 className="title-cursive">Permission to kidnap you for a date?</h1>
 
         <p className="subtitle">
-          I have something special to ask you... 💌
+          Yes kro phle fir baki ke details btaunga and No krne ka try kr skti ho... 😁😁All the best love😂
         </p>
 
         <div className="emoji-row">💖✨💖</div>
