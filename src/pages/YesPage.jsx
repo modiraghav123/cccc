@@ -186,7 +186,7 @@ function YesPage() {
 
         <div className={`email-status ${emailStatus}`}>
           {emailStatus === 'sending' && '💌 Sending a love letter...'}
-          {emailStatus === 'sent' && '💌 A special love letter has been sent to you! 💕'}
+          {emailStatus === 'sent' && '💌 A special love letter has been sent to you! 💕 Check your email !!'}
           {emailStatus === 'error' && '💌 Could not send the love letter, but my love is still real! 💕'}
           {emailStatus === 'not-configured' && '💌 Configure EmailJS to send a love letter! Check YesPage.jsx 💕'}
         </div>
