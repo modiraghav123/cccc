@@ -174,7 +174,7 @@ function YesPage() {
 
         <div className="bouquet-container">
           <img
-            src="/bouquet.png"
+            src="/bouquet.jpeg"
             alt="A beautiful bouquet of roses for you 🌹"
             className="bouquet-img"
           />
