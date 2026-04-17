@@ -1,5 +1,5 @@
 {
-  "homepage": "https://YOUR_USERNAME.github.io/valentine-website",
+  "homepage": "https://modiraghav123.github.io/valentine-website",
   "name": "valentine-client",
   "private": true,
   "version": "1.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "set GH_PAGES_TEMP_DIR=D:\\temp && gh-pages -d dist --no-history"
   },
   "dependencies": {
     "@emailjs/browser": "^4.3.3",

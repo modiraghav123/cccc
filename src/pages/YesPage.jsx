@@ -28,25 +28,33 @@ const EMAIL_CONFIG = {
     message: `
 My Dearest Love,
 
-You said YES! 🎉💕
+Acha hua haa bol diya! 🎉💕
 
-Every moment with you feels like a beautiful dream I never want to wake up from.
-You make my heart skip a beat, my world brighter, and my life complete.
+I know I make a lot of mistakes and I'm veryy murkh
+but I promise to change myself and I will never ever hurt you.
 
 I promise to:
-💖 Love you endlessly
-💖 Make you smile every single day
-💖 Be your best friend, your partner, your everything
-💖 Hold your hand through every adventure life brings us
+💖 Love you infinite
+💖 Make you smile every day 
+💖 Always be with you and stand by you for life
+💖 Give my best to fulfill whatever you want
 
-You are the most amazing person I've ever met, and I'm the luckiest
-person in the world to call you mine.
+So the details of the date are as follows:
+ Date starts from 14th May 2025
+ Time: 10:30am sharp
+ Location : Ormanjhi
+ I will pick you up from your hostel
+ It included dinner date, water park and much more.
 
-I love you more than words could ever express.
-Today, tomorrow, and forever. 💝
+To chal rahe ho na mam. And haa water park me jo bhi slides hogi jana pdega.
+
+I love you soooo muchhhh babyyyyy
+Love u infinitely❤️
+I am sorry for everything I did wrong. I promise to be a better person for you.
+I promise to love you more than you love me. ❤️
 
 With all my heart,
-Your Valentine 🌹
+Your Mr.Mine 🌹
     `.trim(),
   },
 };
